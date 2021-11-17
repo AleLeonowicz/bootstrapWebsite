@@ -1,0 +1,21 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.bg-light {
+    background: none!important;
+}
+
+.jumbotron p {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+
+.py-5 {
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+}
+
+
