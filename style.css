@@ -23,3 +23,32 @@
     background-color: #eceeef;
     padding: 2rem;
 }
+
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.waveImg {
+    width: 18%;
+
+}
+
+
+.learnMoreWrapper {
+    margin-top: 30px;
+
+}
+
+button.learnMoreBtn {
+/*
+    background-color: #212529;
+    color: #ffffff;
+*/
+    display: block;
+    margin: auto;
+/*    border: 3px solid #0c2233;*/
+
+}
+
