@@ -1,3 +1,9 @@
+nav {
+    background-color: #0c2233;
+}
+
+
+
 .jumbotron {
     text-align: center;
     background: none;
@@ -84,3 +90,40 @@ h5.modal-title {
 
 }
 
+/*
+footer.footer {
+    display:block;
+    position: fixed;
+}
+*/
+
+.logoFooterImg {
+    display: block;
+    margin: auto;
+}
+
+
+
+footer {
+    background-color: #0c2233;
+    margin: auto;
+}
+
+
+.awesomeFontsColumn {
+    text-align: center;
+    margin:auto;
+}
+
+.fa-facebook-square {
+    color: #fff;
+
+}
+
+.fa-instagram {
+    color: #fff;
+}
+
+.fab {
+    margin: 10px;
+}
