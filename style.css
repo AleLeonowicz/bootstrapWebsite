@@ -52,3 +52,18 @@ button.learnMoreBtn {
 
 }
 
+.logoModalImg {
+    display: block;
+    margin: auto;
+}
+
+
+/*
+h5.modal-title {
+    margin: auto;
+}*/
+
+
+.modalFormWrapper {
+    margin-top: 3rem;
+}
